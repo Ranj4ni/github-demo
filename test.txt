@@ -1,2 +1,1 @@
 terraform is called infrasturucture as a code(IAC).
-terraform is used to build a hole infrasturucture using a code or script.
